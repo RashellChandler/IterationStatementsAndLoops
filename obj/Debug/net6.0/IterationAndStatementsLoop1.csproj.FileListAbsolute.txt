@@ -1,0 +1,15 @@
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\bin\Debug\net6.0\IterationAndStatementsLoop1.exe
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\bin\Debug\net6.0\IterationAndStatementsLoop1.deps.json
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\bin\Debug\net6.0\IterationAndStatementsLoop1.runtimeconfig.json
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\bin\Debug\net6.0\IterationAndStatementsLoop1.dll
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\bin\Debug\net6.0\IterationAndStatementsLoop1.pdb
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\obj\Debug\net6.0\IterationAndStatementsLoop1.csproj.AssemblyReference.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\obj\Debug\net6.0\IterationAndStatementsLoop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\obj\Debug\net6.0\IterationAndStatementsLoop1.AssemblyInfoInputs.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\obj\Debug\net6.0\IterationAndStatementsLoop1.AssemblyInfo.cs
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\obj\Debug\net6.0\IterationAndStatementsLoop1.csproj.CoreCompileInputs.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\obj\Debug\net6.0\IterationAndStatementsLoop1.dll
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\obj\Debug\net6.0\refint\IterationAndStatementsLoop1.dll
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\obj\Debug\net6.0\IterationAndStatementsLoop1.pdb
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\obj\Debug\net6.0\IterationAndStatementsLoop1.genruntimeconfig.cache
+C:\Users\rashe\OneDrive\Desktop\TrueCoders\repos\IterationStatementsAndLoops\IterationAndStatementsLoop1\obj\Debug\net6.0\ref\IterationAndStatementsLoop1.dll
